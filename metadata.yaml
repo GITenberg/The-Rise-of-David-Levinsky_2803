@@ -1,0 +1,36 @@
+_repo: The-Rise-of-David-Levinsky_2803
+creator:
+  author:
+    agent_name: Cahan, Abraham
+    birthdate: 1860
+    deathdate: 1951
+    gutenberg_agent_id: '1031'
+    url: http://www.gutenberg.org/2009/agents/1031
+    wikipedia: http://en.wikipedia.org/wiki/Abraham_Cahan
+description: "The Rise of David Levinsky is a novel by Abraham Cahan. It was published\
+  \ in 1917, and remains Cahan's best known work.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2803'
+  wikidata: Q7760882
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jewish fiction'
+- !lcsh 'Lower East Side (New York, N.Y.) -- Fiction'
+- !lcsh 'Jews -- New York (State) -- New York -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Jewish men -- Fiction'
+- !lcsh 'Clothing trade -- Fiction'
+- !lcsh 'Immigrants -- Fiction'
+- !lcsh 'Jews -- Russia -- Fiction'
+- !lcsh 'Assimilation (Sociology) -- Fiction'
+- !lcsh 'Millionaires -- Fiction'
+- !lcc 'PS'
+title: The Rise of David Levinsky
+url: http://www.gutenberg.org/ebooks/2803
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Rise_of_David_Levinsky
