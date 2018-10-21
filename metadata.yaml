@@ -1,5 +1,5 @@
 _repo: The-Rise-of-David-Levinsky_2803
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -36,6 +36,7 @@ subjects:
 - !lcsh 'Assimilation (Sociology) -- Fiction'
 - !lcsh 'Millionaires -- Fiction'
 - !lcc 'PS'
+- GITenberg
 title: The Rise of David Levinsky
 url: http://www.gutenberg.org/ebooks/2803
 wikipedia:
